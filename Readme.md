@@ -10,14 +10,14 @@ As from the September 2025, the Download Size for this Repo is : **?** ( Please 
 __**Files and Folder Structure.**__
 
 **Images**
-All images from Websites are organized by category. e.g. ?.
+All images from Websites are organized by category. e.g. ( YEAR ) City Safari, ( YEAR ) Community Day, ( YEAR ) Events, ( YEAR ) Game Updates, ( YEAR ) Go Fest, ( 2026 ) Go Tour and Name, Others and More.
 
 
 ## __**Disclaimer**__
 
 **This repo is for educational use only.**
 
-**All content found within this repo is the property of The Pokemon Company, Niantic and online source.**
+**All content found within this repo is the property of The Pokemon Company, Scopely and in the past Niantic and other online source.**
 
 **Retro John 86 did create and did not create or modify images found within this repo, even though they have custom names and all copyright belongs to the respective companies and sites.**
 
